@@ -1,3 +1,11 @@
+/*과제 제출시
+ * Who: 누가
+ * When: 언제
+ * Objectives: 작성 목적
+ * Environment: OS, JDK Version, Editor //(작성 환경) ex: Windows 10, OpenJDK 11.0.16, Eclipse 2022-06
+ * 
+ */
+
 import java.util.*; // * -> 전부 임포트, Scanner만 필요한 경우 Scanner만 써도 됨.
 
 public class StudentInfo {
